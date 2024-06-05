@@ -1,0 +1,45 @@
+.img-fluid {
+    color: rgb(190, 0, 105);
+    background-color: rgb(53, 53, 61);
+}
+
+
+
+#header #RhostecLogo {
+    float: left;
+    margin: 5px 0 0 10px;
+    height: 51px;
+    width: 192px;
+    text-indent: -5000px;
+    background: black;
+    color: brown;
+}
+.contact {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(10, 10, 10);
+    padding: 2px;
+    text-align: left;
+}
+
+.contact1 {
+    
+    padding-right: 10px;
+    font-family: normal;
+    color: rgb(255, 0, 34);
+    font-weight: bold;
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+}
+
+aside {
+    background-color: rgb(87, 87, 190);
+}
+.mark {
+    background: url(../images/fong1.PNG) ;
+}
+.msg {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
