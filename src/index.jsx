@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Marketing from "./components/Marketing";
 import GlobalStyle from "./utils/style/GlobalStyle";
 import { ThemeProvider, SurveyProvider } from "./utils/context";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
